@@ -1,0 +1,23 @@
+Gliwice, Stolik nr #4, 3-osobowy, 22.06.2024, 15:00, Nowak, przy oknie
+Gliwice, Stolik nr #3, 2-osobowy, 22.06.2024, 15:00, Nowak, przy oknie
+Warszawa, Stolik nr #3, 5-osobowy, 12.09.2024, 16:00,   dziala,   brak
+Gliwice, Stolik nr #2, 3-osobowy, 20.07.2024, 16:00,     sroda,     dziala
+Gliwice, Stolik nr #1, 3-osobowy, 20.07.2024, 16:00,     sroda,     dziala
+Gliwice, Stolik nr #4, 3-osobowy, 11.08.2024, 18:00,       Cwel,       
+Gliwice, Stolik nr #7, 5-osobowy, 11.08.2024, 18:00,       Cwel,       
+Gliwice, Stolik nr #8, 5-osobowy, 11.08.2024, 18:00,       Cwel,       
+Warszawa, Stolik nr #6, 2-osobowy, 13.12.2024, 18:00,           JuliaZolty,           nadal dziala
+Warszawa, Stolik nr #5, 2-osobowy, 13.12.2024, 18:00,           JuliaZolty,           nadal dziala
+Warszawa, Stolik nr #2, 3-osobowy, 13.12.2024, 18:00,           JuliaZolty,           nadal dziala
+Warszawa, Stolik nr #3, 5-osobowy, 05.23.2024, 14:30,             Julia Zolty,             Prosze o stolik przy oknie
+Gliwice, Stolik nr #2, 3-osobowy, 12.12.2023, 15:00,            Julcia,            dziala w koncu
+Gliwice, Stolik nr #8, 5-osobowy, 12.12.2023, 15:00,            Julcia,            dziala w koncu
+Katowice, Stolik nr #1, 2-osobowy, 13.07.2024, 16:00,            Julcia,            Drugi raz tez nawet dziala 
+Katowice, Stolik nr #2, 2-osobowy, 13.07.2024, 16:00,            Julcia,            Drugi raz tez nawet dziala 
+Katowice, Stolik nr #4, 4-osobowy, 13.07.2024, 16:00,            Julcia,            Drugi raz tez nawet dziala 
+Gliwice, Stolik nr #3, 2-osobowy, 25.06.2024, 16:00,          julicia,          udalo sie nawet po tygodniu
+Gliwice, Stolik nr #1, 3-osobowy, 25.06.2024, 16:00,          julicia,          udalo sie nawet po tygodniu
+Katowice, Stolik nr #1, 2-osobowy, 25.07.2024, 15:00,  zolty,  okno
+Katowice, Stolik nr #2, 2-osobowy, 25.07.2024, 15:00,  zolty,  okno
+Katowice, Stolik nr #1, 2-osobowy, 25.08.2024, 16:00,  zolty,  dziala
+Katowice, Stolik nr #4, 4-osobowy, 25.08.2024, 16:00,  zolty,  dziala

@@ -1,0 +1,4 @@
+﻿  list_table.cpp
+C:\Users\Julia\Documents\PK2\e0f8bf12-gr42-repo\Projekt\rezerwacja\list_table.cpp(292,10): warning C4101: 'sign': unreferenced local variable
+C:\Users\Julia\Documents\PK2\e0f8bf12-gr42-repo\Projekt\rezerwacja\list_table.cpp(295,9): warning C4101: 'selectedTableSeatsCount': unreferenced local variable
+  rezerwacja.vcxproj -> C:\Users\Julia\Documents\PK2\e0f8bf12-gr42-repo\Projekt\rezerwacja\x64\Debug\rezerwacja.exe

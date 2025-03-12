@@ -1,0 +1,14 @@
+﻿  date.cpp
+  list_res.cpp
+  list_table.cpp
+C:\Users\Julia\Documents\PK2\e0f8bf12-gr42-repo\Projekt\rezerwacja\list_table.cpp(293,10): warning C4101: 'sign': unreferenced local variable
+C:\Users\Julia\Documents\PK2\e0f8bf12-gr42-repo\Projekt\rezerwacja\list_table.cpp(296,9): warning C4101: 'selectedTableSeatsCount': unreferenced local variable
+  main.cpp
+  reservation.cpp
+  table.cpp
+  Generating code
+  35 of 659 functions ( 5.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  rezerwacja.vcxproj -> C:\Users\Julia\Documents\PK2\e0f8bf12-gr42-repo\Projekt\rezerwacja\x64\Release\rezerwacja.exe
